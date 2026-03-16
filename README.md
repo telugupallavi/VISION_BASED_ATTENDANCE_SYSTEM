@@ -1,4 +1,4 @@
-# Vision Based Attendance System (2026 Optimized)
+# Vision Based Contactless Attendance System Using Facial Mesh and Iris Landmark Analysis (2026 Optimized)
 
 This project implements a Vision Based Attendance System using Face Recognition and Liveness Detection.  
 It automatically identifies registered students and marks their attendance.
@@ -46,7 +46,6 @@ python vision_attendance.py
 vision-attendance-system
 │
 ├── vision_attendance.py
-├── vision_attendance.db
 ├── requirements.txt
 ├── README.md
 
@@ -56,6 +55,5 @@ vision-attendance-system
 - Exported report: Attendance_Report_2026.xlsx
 
 ## Author
-Pallavi Ayyanna
-B.Tech Final Year Project
+Telugu Pallavi
 Vision Based Attendance System
