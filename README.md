@@ -1,4 +1,4 @@
-# Vision Based Contactless Attendance System Using Facial Mesh and Iris Landmark Analysis (2026 Optimized)
+# Vision Based Contactless Attendance System Using Facial Mesh and Iris Landmark Analysis 
 
 This project implements a Vision Based Attendance System using Face Recognition and Liveness Detection.  
 It automatically identifies registered students and marks their attendance.
